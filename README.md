@@ -1,5 +1,6 @@
 This is a Movies list app, where I used a TMDB APi for free version.
 The user can search, save to favourites, see movie's description, the favourites works offline.
+
 Used DB: CoreData
 
 UI: SwiftUI
